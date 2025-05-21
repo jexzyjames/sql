@@ -39,9 +39,6 @@ The schema uses proper relational database principles, including Primary Keys (P
     * Once the script finishes, a new database named `warehouse_inventory_db` will be created.
     * You can verify the tables by running `USE warehouse_inventory_db;` and then `SHOW TABLES;` in your MySQL client.
 
-## Screenshot or link to your ERD
-
-Since I cannot directly generate images, you can create the ERD using a tool like **MySQL Workbench** or an online ERD tool.
 
 **Steps to generate ERD using MySQL Workbench:**
 1.  Open MySQL Workbench and connect to your MySQL server.
