@@ -5,7 +5,6 @@
 -- Objective: Design and implement a full-featured database for tracking products, suppliers,
 --           warehouses, customers, and orders within an inventory context.
 --
--- Author: Your Name/Gemini
 -- Date: May 21, 2025
 -- Database System: MySQL
 
